@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @putsiput
-- 👀 I’m interested in Cyber Security, DevOps and Data Science
+- 👀 I’m interested in blablabla
 - 🌱 I’m currently learning what i want to learn ^^
 - 💞️ I’m looking to collaborate on anything
 - ⚡ Fun fact: i'm muslimah ^^
