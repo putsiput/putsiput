@@ -12,7 +12,7 @@ I am currently a Data and Infrastructure Staff at a private institution, while s
 - **OS:** Linux Ubuntu & Google Colab
 
 ### 📊 My Github Stats
-![Your Github Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=radical)
+![Your Github Stats](https://github-readme-stats.vercel.app/api?username=putsiput&show_icons=true&theme=radical)
 
 ### 📬 Connect with me
 [LinkedIn] | [Email] | [Google Scholar]
