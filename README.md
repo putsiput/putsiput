@@ -15,7 +15,7 @@ I am currently a Data and Infrastructure Staff at a private institution, while s
 ![Your Github Stats](https://github-readme-stats.vercel.app/api?username=putsiput&show_icons=true&theme=radical)
 
 ### 📬 Connect with me
-[LinkedIn] | [Email] | [Google Scholar]
+[(https://www.linkedin.com/in/putsiput/)] | [Email] | [Google Scholar]
 
 ### <p align="left">
 <a href="https://github.com/putsiput">
