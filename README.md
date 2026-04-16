@@ -14,3 +14,18 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
 </a>
 </p>
+
+# Hi there! I'm Putri 🚀
+
+I am currently a Data and Infrastructure Staff at a private institution, while simultaneously pursuing my Bachelor’s degree in Information Systems
+
+### 🛠 Tech Stack
+- **Deep Learning:** TensorFlow, Keras (Functional & Subclassing API)
+- **NLP:** IndoBERT, Word2Vec, TF-IDF
+- **OS:** Linux Ubuntu & Google Colab
+
+### 📊 My Github Stats
+![Your Github Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=radical)
+
+### 📬 Connect with me
+[LinkedIn] | [Email] | [Google Scholar]
